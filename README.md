@@ -17,7 +17,7 @@ Git Resource | Difficulty Level | Effort
 [GitPro: Book on Git](https://git-scm.com/book/en/v2)||
 [Guide to Github by Pluralsight](https://www.pluralsight.com/blog/software-development/github-tutorial)||
 [Guide to Git and Github by Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)||
-[Understanding Git for Real by a Camper from Free Code Ccamp](https://medium.freecodecamp.com/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.4e8j8qsvs)||
+[Understanding Git for Real by a Camper from Free Code Camp](https://medium.freecodecamp.com/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.4e8j8qsvs)||
 
      
 
