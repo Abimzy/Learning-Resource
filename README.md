@@ -7,7 +7,7 @@ Git Resource | Difficulty Level | Effort
 [Guides By Github](https://guides.github.com/)||
 [Github Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet)||
 [Guide to Github by Thinkful](https://www.thinkful.com/learn/github-pull-request-tutorial/)||
-[Guide to Github by Codeschool](https://www.codeschool.com/courses/git-real)||
+[Guide to Github by Codeschool](https://www.codeschool.com/learn/git)||
 [Visual Git Guide by Marklodato](http://marklodato.github.io/visual-git-guide/index-en.html)||
 [Git Tower](https://www.git-tower.com/learn/)||
 [Understanding Git Conceptually](https://www.sbf5.com/~cduan/technical/git/)||
