@@ -11,7 +11,7 @@ Git Resource | Difficulty Level | Effort
 [Visual Git Guide by Marklodato](http://marklodato.github.io/visual-git-guide/index-en.html)||
 [Git Tower](https://www.git-tower.com/learn/)||
 [Understanding Git Conceptually](https://www.sbf5.com/~cduan/technical/git/)||
-[Guide to Git by BuddyWorks](https://www.sbf5.com/~cduan/technical/git/)||
+[Guide to Git by BuddyWorks](https://buddy.works/guides/first-steps-with-git)||
 [Git for Designers by Dfosco](https://medium.com/@dfosco/git-for-designers-856c434716e#.qoip0bfdd)||
 [A Visual Guide to Version Control](https://betterexplained.com/articles/a-visual-guide-to-version-control/)||
 [GitPro: Book on Git](https://git-scm.com/book/en/v2)||
