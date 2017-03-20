@@ -46,3 +46,7 @@ Always updated list of free programming books: [Free Books](https://github.com/v
 A structured list of resources for Computer Science: [Computer Science](https://github.com/open-source-society/computer-science) 
 
 A structured list of resources for Data Science: [Data Science](https://github.com/open-source-society/data-science)
+
+Web Resources |
+:-- |
+[Sitepoint: A great resource for Web Devs](https://www.sitepoint.com/)
