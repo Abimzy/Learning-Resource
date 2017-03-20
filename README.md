@@ -41,12 +41,14 @@ Guides | Type
 [Full Stack - Free Code Camp](https://www.freecodecamp.com/)|Very indepth resource. HTML&CSS, Javascript 
 [Full Stack - The Odin Project](http://www.theodinproject.com/)| HTML&CSS, Ruby
 
+
+Web Resources |
+:-- |
+[Sitepoint: A great resource for Web Devs](https://www.sitepoint.com/)
+
 Always updated list of free programming books: [Free Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#pyramid)
 
 A structured list of resources for Computer Science: [Computer Science](https://github.com/open-source-society/computer-science) 
 
 A structured list of resources for Data Science: [Data Science](https://github.com/open-source-society/data-science)
 
-Web Resources |
-:-- |
-[Sitepoint: A great resource for Web Devs](https://www.sitepoint.com/)
