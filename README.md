@@ -19,6 +19,30 @@ Git Resource | Difficulty Level | Effort
 [Guide to Git and Github by Udacity](https://www.udacity.com/course/how-to-use-git-and-github--ud775)||
 [Understanding Git for Real by a Camper from Free Code Camp](https://medium.freecodecamp.com/understanding-git-for-real-by-exploring-the-git-directory-1e079c15b807#.4e8j8qsvs)||
 
-     
+## Code Style Guidelines 
 
+Style Guides | Code Type
+:-- | :--: |
+[Codeguide by the creator of Bootstrap](http://codeguide.co/)|HTML & CSS
+[Style Guides by w3school](https://www.w3schools.com/default.asp)|HTML & CSS, Javascript
 
+## Text Editor Tutorial 
+
+Text Editor Guide | 
+:-- | 
+[Sublime 3 - Visual Guide](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)|
+[Vim Adventures: A game to learn the layout to Vim](https://vim-adventures.com/)
+
+## Free Learning Resources
+
+Guides | Type
+:-- | :--: |
+[Full Stack - Bento.io](https://bento.io/)|HTML & CSS, Python, and other resources
+[Full Stack- Free Code Camp](https://www.freecodecamp.com/)|Very indepth resource. HTML&CSS, Javascript 
+[Full Stack - The Odin Project](http://www.theodinproject.com/)| HTML&CSS, Ruby
+
+Always updated list of free programming books: [Free Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#pyramid)
+
+A structured list of resources for Computer Science: [Computer Science](https://github.com/open-source-society/computer-science) 
+
+A structured list of resources for Data Science: [Data Science](https://github.com/open-source-society/data-science)
