@@ -38,7 +38,7 @@ Text Editor Guide |
 Guides | Type
 :-- | :--: |
 [Full Stack - Bento.io](https://bento.io/)|HTML & CSS, Python, and other resources
-[Full Stack- Free Code Camp](https://www.freecodecamp.com/)|Very indepth resource. HTML&CSS, Javascript 
+[Full Stack - Free Code Camp](https://www.freecodecamp.com/)|Very indepth resource. HTML&CSS, Javascript 
 [Full Stack - The Odin Project](http://www.theodinproject.com/)| HTML&CSS, Ruby
 
 Always updated list of free programming books: [Free Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#pyramid)
