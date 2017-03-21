@@ -45,6 +45,7 @@ Guides | Type
 Web Resources |
 :-- |
 [Sitepoint: A great resource for Web Devs](https://www.sitepoint.com/)
+[System Design Primer ](https://github.com/donnemartin/system-design-primer)
 
 Always updated list of free programming books: [Free Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#pyramid)
 
