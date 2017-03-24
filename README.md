@@ -53,3 +53,5 @@ A structured list of resources for Computer Science: [Computer Science](https://
 
 A structured list of resources for Data Science: [Data Science](https://github.com/open-source-society/data-science)
 
+An insanely in-depth repo full of resources for anyone interested in full-stack web dev: [Full-Stack](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+
