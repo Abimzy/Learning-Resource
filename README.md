@@ -33,7 +33,7 @@ Text Editor Guide |
 [Sublime 3 - Visual Guide](https://scotch.io/bar-talk/the-complete-visual-guide-to-sublime-text-3-getting-started-and-keyboard-shortcuts)|
 [Vim Adventures: A game to learn the layout to Vim](https://vim-adventures.com/)
 
-## Free Learning Resources
+## Lost of Other Resources
 
 Guides | Type
 :-- | :--: |
