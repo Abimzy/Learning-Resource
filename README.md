@@ -46,6 +46,7 @@ Web Resources |
 :-- |
 [Sitepoint: A great resource for Web Devs](https://www.sitepoint.com/)
 [System Design Primer ](https://github.com/donnemartin/system-design-primer)
+[List of Programming Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/)
 
 Always updated list of free programming books: [Free Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#pyramid)
 
