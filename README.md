@@ -53,6 +53,7 @@ Always updated list of free programming books: [Free Books](https://github.com/v
 A structured list of resources for Computer Science: [Computer Science](https://github.com/open-source-society/computer-science) 
 
 A structured list of resources for Data Science: [Data Science](https://github.com/open-source-society/data-science)
+[Data Science v2 - just another resource](https://github.com/bulutyazilim/awesome-datascience)
 
 An insanely in-depth repo full of resources for anyone interested in full-stack web dev: [Full-Stack](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
