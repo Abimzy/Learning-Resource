@@ -42,18 +42,19 @@ Guides | Type
 [Full Stack - The Odin Project](http://www.theodinproject.com/)| HTML&CSS, Ruby
 
 
-Web Resources |
+Resources |
 :-- |
 [Sitepoint: A great resource for Web Devs](https://www.sitepoint.com/)
 [System Design Primer ](https://github.com/donnemartin/system-design-primer)
 [List of Programming Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/)
+[Agile Manifesto for Web Development](https://www.agilealliance.org/agile101/the-agile-manifesto/)
+[OSS Data Science](https://github.com/open-source-society/data-science)
+[Large Repo for Data Science Information - Worth a peak](https://github.com/bulutyazilim/awesome-datascience)
+
 
 Always updated list of free programming books: [Free Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#pyramid)
 
 A structured list of resources for Computer Science: [Computer Science](https://github.com/open-source-society/computer-science) 
-
-A structured list of resources for Data Science: [Data Science](https://github.com/open-source-society/data-science) -
-[Data Science v2 - just another resource](https://github.com/bulutyazilim/awesome-datascience)
 
 An insanely in-depth repo full of resources for anyone interested in full-stack web dev: [Full-Stack](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 
