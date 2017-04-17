@@ -50,7 +50,7 @@ Resources |
 [Agile Manifesto for Software Development](https://www.agilealliance.org/agile101/the-agile-manifesto/)
 [OSS Data Science](https://github.com/open-source-society/data-science)
 [Large Repo for Data Science Information - Worth a peak](https://github.com/bulutyazilim/awesome-datascience)
-
+[Level Up with Code Kata](http://codekata.com/)
 
 Always updated list of free programming books: [Free Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#pyramid)
 
