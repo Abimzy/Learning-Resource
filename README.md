@@ -47,7 +47,7 @@ Resources |
 [Sitepoint: A great resource for Web Devs](https://www.sitepoint.com/)
 [System Design Primer ](https://github.com/donnemartin/system-design-primer)
 [List of Programming Podcasts](https://simpleprogrammer.com/2016/10/29/ultimate-list-developer-podcasts/)
-[Agile Manifesto for Web Development](https://www.agilealliance.org/agile101/the-agile-manifesto/)
+[Agile Manifesto for Software Development](https://www.agilealliance.org/agile101/the-agile-manifesto/)
 [OSS Data Science](https://github.com/open-source-society/data-science)
 [Large Repo for Data Science Information - Worth a peak](https://github.com/bulutyazilim/awesome-datascience)
 
