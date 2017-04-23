@@ -51,6 +51,7 @@ Resources |
 [OSS Data Science](https://github.com/open-source-society/data-science)
 [Large Repo for Data Science Information - Worth a peek](https://github.com/bulutyazilim/awesome-datascience)
 [Level Up with Code Kata](http://codekata.com/)
+[UX Information](http://jessicaivins.net/my-advice-for-becoming-a-ux-designer/)
 
 Always updated list of free programming books: [Free Books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md#pyramid)
 
